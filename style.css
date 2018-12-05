@@ -1,0 +1,652 @@
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+body {
+  font-family: Montserrat;
+  color: black;
+  background-color: #FFF1C0;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* index */
+
+.name {
+  font-size: 43px;
+  color: black;
+  text-align: left;
+  margin-left: 40px;
+}
+
+.nav {
+  text-align: left;
+  margin-bottom: 50px;
+}
+
+.nav a {
+  min-height: 50vh;
+  color: #EDB800;
+  text-decoration: none;
+  transition: all .3s ease-in-out;
+  font-size: 20px;
+  margin-left: 65px;
+}
+
+.nav a:hover {
+  color: black;
+}
+
+.index-photo {
+  text-align: left;
+  margin-left: 45px;
+  width: 50%;
+  display: inline;
+}
+
+.bio {
+  font-size: 20px;
+  margin-right: 150px;
+  margin-bottom: 50px;
+  margin-top: 110px;
+  margin-left: 100px;
+  width: 40%;
+  display: inline;
+  float: right;
+}
+
+.social {
+  margin-top: 70px;
+  text-align: left;
+}
+
+.social a{
+  font-size: 15px;
+  color: black;
+  text-decoration: none;
+  transition: all .3s ease-in-out;
+  margin-left: 110px;
+}
+
+.social a:hover {
+  color: #EDB800;
+}
+
+/* portfolio */
+
+.portfolio-container a {
+  color: darkgray;
+  text-decoration: none;
+  transition: all .3s ease-in-out;
+  font-size: 20px;
+}
+
+.portfolio-container a:hover {
+  color: black;
+}
+
+.portfolio-container h1{
+  margin-right: 790px;
+  margin-top: 60px;
+}
+
+.portfolio-container img {
+  margin: 40px;
+}
+
+.portfolio-container iframe {
+  margin: 40px;
+}
+
+.portfolio-container {
+  margin-bottom: 20px;
+}
+
+.portfolio-container p {
+  font-size: 25px;
+  margin-top: 70px;
+}
+
+.portfolio-nav p {
+  font-size: 30px;
+}
+
+.portfolio-exhibitions {
+  display: inline;
+  float: left;
+  margin-left: 200px;
+}
+
+#exhibitions-img {
+  height: 65vh;
+  width: 30vw;
+  margin-bottom: 70px;
+}
+
+.portfolio-sculpture {
+  display: inline;
+  float: left;
+  margin-left: 200px;
+}
+
+#sculpture-img {
+  height: 65vh;
+  width: 30vw;
+  margin-bottom: 70px;
+}
+
+.portfolio-digital {
+  display: inline;
+  float: left;
+  margin-left: 200px;
+}
+
+#digital-img {
+  height: 65vh;
+  width: 30vw;
+  margin-bottom: 70px;
+}
+
+.portfolio-photography {
+  display: inline;
+  float: left;
+  margin-left: 200px;
+}
+
+#photography-img {
+  height: 65vh;
+  width: 30vw;
+  margin-bottom: 70px;
+}
+
+.portfolio-games {
+  display: inline;
+  float: left;
+  margin-left: 200px;
+}
+
+#games-img {
+  height: 65vh;
+  width: 30vw;
+  margin-bottom: 70px;
+}
+
+.portfolio-animation {
+  display: inline;
+  float: left;
+  margin-left: 200px;
+}
+
+#animation-img {
+  height: 65vh;
+  width: 30vw;
+  margin-bottom: 70px;
+}
+
+.back-to-portfolio {
+  font-size: 20px;
+  color: black;
+  text-decoration: none;
+  transition: all .3s ease-in-out;
+  margin-left: 900px;
+}
+
+.back-to-portfolio:hover {
+  color: #EDB800;
+}
+
+/* exhibitions */
+
+.exhibitions-midres5 {
+  height: 80vh;
+  width: 60vw;
+}
+
+.exhibitions-midres1 {
+  height: 90vh;
+  width: 35vw;
+}
+
+.exhibitions-midres2 {
+  height: 90vh;
+  width: 35vw;
+}
+
+.exhibitions-midres3 {
+  height: 90vh;
+  width: 35vw;
+}
+
+.exhibitions-midres4 {
+  height: 90vh;
+  width: 35vw;
+}
+
+.exhibitions-redcarpet1 {
+  height: 60vh;
+  width: 40vw;
+}
+
+.exhibitions-redcarpet2 {
+  height: 60vh;
+  width: 40vw;
+}
+
+.exhibitions-redcarpet3 {
+  height: 60vh;
+  width: 20vw;
+  margin: 10px !important;
+}
+
+.exhibitions-redcarpet4 {
+  height: 60vh;
+  width: 20vw;
+  margin: 10px !important;
+}
+
+.exhibitions-redcarpet5 {
+  height: 60vh;
+  width: 20vw;
+  margin: 10px !important;
+}
+
+.exhibitions-redcarpet6 {
+  height: 60vh;
+  width: 20vw;
+  margin: 10px !important;
+}
+
+.exhibitions-cassettes {
+  height: 90vh;
+  width: 35vw;
+}
+
+.exhibitions-twisted1 {
+  height: 55vh;
+  width: 40vw;
+}
+
+.exhibitions-twisted2 {
+  height: 55vh;
+  width: 40vw;
+}
+
+/* sculpture */
+
+.sculpture-cicada {
+  height: 95vh;
+  width: 70vw;
+}
+
+.sculpture-carpetbeetles {
+  height: 80vh;
+  width: 38vw;
+}
+
+.sculpture-goldendigger {
+  height: 80vh;
+  width: 38vw;
+}
+
+.sculpture-jewelbeetle {
+  height: 90vh;
+  width: 64vw;
+}
+
+.sculpture-figeater {
+  height: 95vh;
+  width: 50vw;
+}
+
+.sculpture-ants {
+  height: 95vh;
+  width: 30vw;
+}
+
+.sculpture-cochineal {
+  height: 90vh;
+  width: 64vw;
+}
+
+.sculpture-hands1 {
+  height: 60vh;
+  width: 40vw;
+}
+
+.sculpture-hands2 {
+  height: 60vh;
+  width: 40vw;
+}
+
+.sculpture-queerlove {
+  height: 85vh;
+  width: 64vw;
+}
+
+.sculpture-jar1 {
+  height: 95vh;
+  width: 34vw;
+}
+
+.sculpture-jar2 {
+  height: 95vh;
+  width: 34vw;
+}
+
+.sculpture-jar3 {
+  height: 95vh;
+  width: 34vw;
+}
+
+.sculpture-jar4 {
+  height: 95vh;
+  width: 34vw;
+}
+
+.sculpture-jar5 {
+  height: 95vh;
+  width: 34vw;
+}
+
+.sculpture-jar6 {
+  height: 95vh;
+  width: 34vw;
+}
+
+.sculpture-redcarpet {
+  height: 85vh;
+  width: 64vw;
+}
+
+.sculpture-coralman {
+  height: 80vh;
+  width: 40vw;
+}
+
+.sculpture-pinnedbug {
+  height: 80vh;
+  width: 40vw;
+}
+
+.sculpture-mouth {
+  height: 95vh;
+  width: 34vw;
+}
+
+.sculpture-snakes {
+  height: 95vh;
+  width: 34vw;
+}
+
+.sculpture-beaver {
+  height: 90vh;
+  width: 65vw;
+}
+
+.sculpture-cat {
+  height: 60vh;
+  width: 40vw;
+}
+
+.sculpture-porcupine {
+  height: 60vh;
+  width: 35vw;
+}
+
+.sculpture-bear {
+  height: 85vh;
+  width: 40vw;
+}
+
+.sculpture-crow {
+  height: 85vh;
+  width: 60vw;
+}
+
+/* digital & print */
+
+.digital-kay {
+  height: 95vh;
+  width: 34vw;
+}
+
+.digital-midres {
+  height: 95vh;
+  width: 34vw;
+}
+
+.digital-halloweentown {
+  height: 100vh;
+  width: 32vw;
+}
+
+.digital-plan10 {
+  height: 100vh;
+  width: 32vw;
+}
+
+.digital-smash {
+  height: 100vh;
+  width: 32vw;
+}
+
+.digital-freshcuts {
+  height: 100vh;
+  width: 32vw;
+}
+
+.digital-taxidermy {
+  height: 100vh;
+  width: 32vw;
+}
+
+.digital-queercontent {
+  height: 100vh;
+  width: 32vw;
+}
+
+.digital-taxidermist {
+  height: 95vh;
+  width: 32vw;
+}
+
+.digital-thoracic {
+  height: 95vh;
+  width: 32vw;
+}
+
+.digital-host {
+  height: 95vh;
+  width: 32vw;
+}
+
+.digital-claws {
+  height: 95vh;
+  width: 32vw;
+}
+
+.digital-junebugstudy {
+  height: 60vh;
+  width: 40vw;
+}
+
+.digital-tarantuala {
+  height: 60vh;
+  width: 40vw;
+}
+
+.digital-trex {
+  height: 65vh;
+  width: 50vw;
+}
+
+.print-goat {
+  height: 100vh;
+  width: 32vw;
+}
+
+.print-lovers {
+  height: 100vh;
+  width: 35vw;
+}
+
+.print-underwear {
+  height: 65vh;
+  width: 55vw;
+}
+
+/* photography */
+
+.photo-mannequin1 {
+  height: 70vh;
+  width: 23vw;
+}
+
+.photo-mannequin2 {
+  height: 70vh;
+  width: 23vw;
+}
+
+.photo-mannequin3 {
+  height: 70vh;
+  width: 23vw;
+}
+
+.photo-emily {
+  height: 55vh;
+  width: 40vw;
+}
+
+.photo-bigbear1 {
+  height: 80vh;
+  width: 65vw;
+}
+
+.photo-bigbear2 {
+  height: 80vh;
+  width: 65vw;
+}
+
+.photo-pismo1 {
+  height: 55vh;
+  width: 40vw;
+}
+
+.photo-pismo2 {
+  height: 55vh;
+  width: 40vw;
+}
+
+.photo-pismo3 {
+  height: 65vh;
+  width: 50vw;
+}
+
+.photo-mammoth1 {
+  height: 55vh;
+  width: 40vw;
+}
+
+.photo-mammoth2 {
+  height: 55vh;
+  width: 40vw;
+}
+
+.photo-mammoth3 {
+  height: 55vh;
+  width: 40vw;
+}
+
+.photo-mammoth4 {
+  height: 55vh;
+  width: 40vw;
+}
+
+.photo-mammoth5 {
+  height: 55vh;
+  width: 40vw;
+}
+
+.photo-mammoth6 {
+  height: 55vh;
+  width: 40vw;
+}
+
+.photo-mammoth7 {
+  height: 55vh;
+  width: 40vw;
+}
+
+.photo-mammoth8 {
+  height: 55vh;
+  width: 40vw;
+}
+
+.photo-mammoth9 {
+  height: 70vh;
+  width: 55vw;
+}
+
+/* games */
+
+.games-freshcutscap {
+  height: 50vh;
+  width: 40vw;
+  margin-top: 0px !important;
+}
+
+.games-lightningbugscap {
+  height: 40vh;
+  width: 60vw;
+  margin-top: 0px !important;
+}
+
+/* resume */
+
+.resume-container h1 {
+  margin: 40px;
+  font-size: 28px;
+}
+
+.resume-container p {
+  font-size: 18px;
+  margin: 30px;
+}
+
+.resume-container img {
+  margin: 20px;
+}
+
+.resume-container a {
+  color: #EDB800;
+  text-decoration: none;
+  transition: all .3s ease-in-out;
+  font-size: 18px;
+}
+
+.resume-container a:hover {
+  color: black;
+}
+
+/* contact */
+
+.contact-title {
+  margin-right: 770px;
+  margin-bottom: 50px;
+}
+
+.contact-email {
+  margin-bottom: 50px;
+  margin-top: 200px;
+  margin-left: 118px;
+  width: 30%;
+  display: inline;
+  float: left;
+  font-size: 20px;
+}
+
+.contact-photo {
+  margin-top: 70px;
+  text-align: right;
+  width: 40%;
+  display: inline;
+}
