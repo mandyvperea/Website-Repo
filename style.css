@@ -322,6 +322,11 @@ body {
   width: 64vw;
 }
 
+.sculpture-mug {
+  height: 85vh;
+  width: 64vw;
+}
+
 .sculpture-jar1 {
   height: 95vh;
   width: 34vw;
@@ -367,19 +372,19 @@ body {
   width: 40vw;
 }
 
-.sculpture-mouth {
-  height: 95vh;
-  width: 34vw;
-}
-
-.sculpture-snakes {
-  height: 95vh;
-  width: 34vw;
-}
-
 .sculpture-beaver {
-  height: 90vh;
-  width: 65vw;
+  height: 60vh;
+  width: 42vw;
+}
+
+.sculpture-opossum {
+  height: 60vh;
+  width: 42vw;
+}
+
+.sculpture-raccoon {
+  height: 100vh;
+  width: 70vw;
 }
 
 .sculpture-cat {
@@ -393,12 +398,27 @@ body {
 }
 
 .sculpture-bear {
-  height: 85vh;
-  width: 40vw;
+  height: 100vh;
+  width: 52vw;
+}
+
+.sculpture-anyone {
+  height: 95vh;
+  width: 65vw;
+}
+
+.sculpture-mouth {
+  height: 95vh;
+  width: 36vw;
+}
+
+.sculpture-snakes {
+  height: 95vh;
+  width: 36vw;
 }
 
 .sculpture-crow {
-  height: 85vh;
+  height: 90vh;
   width: 60vw;
 }
 
@@ -479,6 +499,16 @@ body {
   width: 50vw;
 }
 
+.print-wings {
+  height: 85vh;
+  width: 70vw;
+}
+
+.print-butterfly {
+  height: 85vh;
+  width: 70vw;
+}
+
 .print-goat {
   height: 100vh;
   width: 32vw;
@@ -487,11 +517,6 @@ body {
 .print-lovers {
   height: 100vh;
   width: 35vw;
-}
-
-.print-underwear {
-  height: 65vh;
-  width: 55vw;
 }
 
 /* photography */
