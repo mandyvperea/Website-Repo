@@ -424,66 +424,6 @@ body {
 
 /* digital & print */
 
-.digital-kay {
-  height: 95vh;
-  width: 34vw;
-}
-
-.digital-midres {
-  height: 95vh;
-  width: 34vw;
-}
-
-.digital-halloweentown {
-  height: 100vh;
-  width: 32vw;
-}
-
-.digital-plan10 {
-  height: 100vh;
-  width: 32vw;
-}
-
-.digital-weevils {
-  height: 95vh;
-  width: 75vw;
-}
-
-.digital-shark {
-  height: 90vh;
-  width: 60vw;
-}
-
-.digital-slug {
-  height: 90vh;
-  width: 50vw;
-}
-
-.digital-smash {
-  height: 100vh;
-  width: 32vw;
-}
-
-.digital-freshcuts {
-  height: 100vh;
-  width: 32vw;
-}
-
-.digital-taxidermy {
-  height: 100vh;
-  width: 32vw;
-}
-
-.digital-rostrum {
-  height: 100vh;
-  width: 32vw;
-}
-
-.digital-queercontent {
-  height: 100vh;
-  width: 32vw;
-}
-
 .digital-taxidermist {
   height: 95vh;
   width: 32vw;
@@ -504,6 +444,71 @@ body {
   width: 32vw;
 }
 
+.digital-weevils {
+  height: 95vh;
+  width: 75vw;
+}
+
+.digital-taxidermy {
+  height: 100vh;
+  width: 32vw;
+}
+
+.digital-rostrum {
+  height: 100vh;
+  width: 32vw;
+}
+
+.digital-queercontent {
+  height: 100vh;
+  width: 32vw;
+}
+
+.digital-midres {
+  height: 95vh;
+  width: 34vw;
+}
+
+.digital-plan10 {
+  height: 100vh;
+  width: 32vw;
+}
+
+.digital-smash {
+  height: 100vh;
+  width: 32vw;
+}
+
+.digital-kay {
+  height: 95vh;
+  width: 34vw;
+}
+
+.digital-halloweentown {
+  height: 100vh;
+  width: 32vw;
+}
+
+.digital-freshcuts {
+  height: 100vh;
+  width: 32vw;
+}
+
+.digital-shark {
+  height: 90vh;
+  width: 60vw;
+}
+
+.digital-slug {
+  height: 90vh;
+  width: 50vw;
+}
+
+.digital-trex {
+  height: 80vh;
+  width: 60vw;
+}
+
 .digital-junebugstudy {
   height: 60vh;
   width: 40vw;
@@ -512,11 +517,6 @@ body {
 .digital-tarantuala {
   height: 60vh;
   width: 40vw;
-}
-
-.digital-trex {
-  height: 80vh;
-  width: 60vw;
 }
 
 .print-wings {
