@@ -444,6 +444,21 @@ body {
   width: 32vw;
 }
 
+.digital-weevils {
+  height: 95vh;
+  width: 75vw;
+}
+
+.digital-shark {
+  height: 90vh;
+  width: 60vw;
+}
+
+.digital-slug {
+  height: 90vh;
+  width: 50vw;
+}
+
 .digital-smash {
   height: 100vh;
   width: 32vw;
@@ -455,6 +470,11 @@ body {
 }
 
 .digital-taxidermy {
+  height: 100vh;
+  width: 32vw;
+}
+
+.digital-rostrum {
   height: 100vh;
   width: 32vw;
 }
@@ -495,8 +515,8 @@ body {
 }
 
 .digital-trex {
-  height: 65vh;
-  width: 50vw;
+  height: 80vh;
+  width: 60vw;
 }
 
 .print-wings {
