@@ -424,6 +424,11 @@ body {
 
 /* digital & print */
 
+.digital-parasitoidgif {
+  height: 80vh;
+  width: 65vw;
+}
+
 .digital-taxidermist {
   height: 95vh;
   width: 32vw;
