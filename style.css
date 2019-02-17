@@ -196,6 +196,11 @@ body {
 
 /* exhibitions */
 
+.exhibitions-rainbow {
+  height: 80vh;
+  width: 60vw;
+}
+
 .exhibitions-midres5 {
   height: 80vh;
   width: 60vw;
@@ -545,6 +550,16 @@ body {
 }
 
 /* photography */
+
+.photo-elodie {
+  height: 80vh;
+  width: 65vw;
+}
+
+.photo-vasquez1 {
+  height: 80vh;
+  width: 65vw;
+}
 
 .photo-mannequin1 {
   height: 70vh;
